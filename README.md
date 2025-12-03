@@ -25,8 +25,8 @@ Primeiro quebrei os requisitos em **User Stories** pequenas e testáveis (usando
 
 ---
 
-### 2. Criando os Testes (Design)
-Criei roteiros de teste detalhados, pensando no "happy path" e no "bad path".
+### 2. Criando os Testes
+Criei roteiros de teste (step by step).
 
 ![Detalhe do Caso de Teste](assets/02_test_case_steps.jpg)
 *(Exemplo de um teste escrito passo a passo)*
