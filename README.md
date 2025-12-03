@@ -18,7 +18,7 @@ O objetivo foi testar o **ParaBank** (um sistema bancário fictício), cobrindo 
 A missão dessa Sprint foi garantir que novos usuários conseguissem se cadastrar e entrar no banco com segurança. Abaixo, mostro passo a passo como conduzi o processo.
 
 ### 1. Organizando a Casa (Backlog e Jira)
-Primeiro, quebrei os requisitos em **User Stories** pequenas e testáveis (usando a técnica INVEST). Organizei tudo no quadro Kanban para o time saber o que estava acontecendo.
+Primeiro quebrei os requisitos em **User Stories** pequenas e testáveis (usando a técnica INVEST). Organizei tudo no quadro Kanban para o time saber o que estava acontecendo.
 
 ![Quadro Kanban](assets/01_jira_sprint_board.jpg)
 *(Visão geral do Board com as tarefas organizadas)*
@@ -28,7 +28,7 @@ Primeiro, quebrei os requisitos em **User Stories** pequenas e testáveis (usand
 ### 2. Criando os Testes (Design)
 Criei roteiros de teste detalhados, pensando no "happy path" e no "bad path".
 
-![Detalhe do Caso de Teste](assets/02_test_case_steps.png)
+![Detalhe do Caso de Teste](assets/02_test_case_steps.jpg)
 *(Exemplo de um teste escrito passo a passo)*
 
 ---
@@ -38,7 +38,7 @@ Rodei os testes no ambiente de Staging. O resultado foi positivo na maioria, mas
 
 * **Resultado:** 4 Passaram (✅) / 1 Falhou (❌)
 
-![Ciclo de Teste Zephyr](assets/03_zephyr_execution_cycle.png)
+![Ciclo de Teste Zephyr](assets/03_zephyr_execution_cycle.jpg)
 *(Lista dos testes rodados e seus status)*
 
 ---
@@ -59,15 +59,15 @@ Para fechar a Sprint, gerei os relatórios que mostram a saúde do projeto.
 
 ####  Resumo Visual (Donut Chart)
 A maioria das funções está estável, com exceção do ponto de segurança.
-![Gráfico Donut](assets/04_report_execution_summary.png)
+![Gráfico Donut](assets/04_report_execution_summary.jpg)
 
 ####  Rastreabilidade (Traceability)
 Aqui eu provo que não testei coisas aleatórias. Cada teste está ligado a um requisito de negócio.
-![Matriz de Rastreabilidade](assets/05_report_traceability_matrix.png)
+![Matriz de Rastreabilidade](assets/05_report_traceability_matrix.jpg)
 
 ####  Lista Detalhada
-Para quem gosta de ver o detalhe de cada execução.
-![Lista Detalhada](assets/06_report_execution_details.png)
+Os detalhes de cada execução:
+![Lista Detalhada](assets/06_report_execution_details.jpg)
 
 ---
 
