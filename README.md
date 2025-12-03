@@ -1,4 +1,4 @@
-# 🏦 ParaBank QA Project | Portfólio de Testes Manuais
+#  ParaBank QA Project | Portfólio de Testes Manuais
 
 Bem-vindo(a) ao meu portfólio! Este projeto simula o dia a dia de um QA num ambiente ágil. 
 O objetivo foi testar o **ParaBank** (um sistema bancário fictício), cobrindo fluxos essenciais como criar conta, login e segurança.
