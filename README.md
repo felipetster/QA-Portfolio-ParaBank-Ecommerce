@@ -20,7 +20,7 @@ A missão dessa Sprint foi garantir que novos usuários conseguissem se cadastra
 ### 1. Organizando a Casa (Backlog e Jira)
 Primeiro, quebrei os requisitos em **User Stories** pequenas e testáveis (usando a técnica INVEST). Organizei tudo no quadro Kanban para o time saber o que estava acontecendo.
 
-![Quadro Kanban](assets/01_jira_sprint_board.png)
+![Quadro Kanban](assets/01_jira_sprint_board.jpg)
 *(Visão geral do Board com as tarefas organizadas)*
 
 ---
