@@ -1,6 +1,6 @@
 #  ParaBank QA Project | Portfólio de Testes Manuais
 
-Bem-vindo(a) ao meu portfólio! Este projeto simula o dia a dia de um QA num ambiente ágil. 
+Este projeto simula o dia a dia de um QA num ambiente ágil. 
 O objetivo foi testar o **ParaBank** (um sistema bancário fictício), cobrindo fluxos essenciais como criar conta, login e segurança.
 
 ---
@@ -26,14 +26,14 @@ Primeiro, quebrei os requisitos em **User Stories** pequenas e testáveis (usand
 ---
 
 ### 2. Criando os Testes (Design)
-Não adianta sair clicando. Criei roteiros de teste detalhados, pensando no "Caminho Feliz" (tudo dá certo) e no "Caminho Triste" (tentar quebrar o sistema).
+Criei roteiros de teste detalhados, pensando no "happy path" e no "bad path".
 
 ![Detalhe do Caso de Teste](assets/02_test_case_steps.png)
 *(Exemplo de um teste escrito passo a passo)*
 
 ---
 
-### 3. Hora da Verdade (Execução)
+### 3. Execução
 Rodei os testes no ambiente de Staging. O resultado foi positivo na maioria, mas encontrei problemas.
 
 * **Resultado:** 4 Passaram (✅) / 1 Falhou (❌)
@@ -44,7 +44,7 @@ Rodei os testes no ambiente de Staging. O resultado foi positivo na maioria, mas
 ---
 
 ### 4. Caçando Bugs (Defeitos)
-Durante os testes de segurança, encontrei uma falha crítica no Logout. Documentei tudo bonitinho para o desenvolvedor não ter dúvida de como arrumar.
+Durante os testes de segurança, encontrei uma falha crítica no Logout. Documentei tudo para o desenvolvedor não ter dúvida de como arrumar.
 
 * **O Bug:** O botão "Voltar" do navegador mostrava a conta logada mesmo depois de sair.
 * **Evidência:** Anexei vídeo e prints no ticket.
