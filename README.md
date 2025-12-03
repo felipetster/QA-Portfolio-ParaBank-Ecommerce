@@ -5,7 +5,7 @@ O objetivo foi testar o **ParaBank** (um sistema bancário fictício), cobrindo 
 
 ---
 
-## 🛠️ O que usei nesse projeto?
+##  O que usei nesse projeto?
 * **Jira Software:** Para organizar as Sprints e tarefas (Scrum).
 * **Zephyr Scale:** Para criar, organizar e rodar os testes.
 * **BDD (Gherkin):** Para escrever requisitos que todo mundo entende (Dado/Quando/Então).
