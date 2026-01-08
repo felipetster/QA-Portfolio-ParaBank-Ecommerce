@@ -8,7 +8,7 @@ O objetivo principal foi validar o **MVP de Acesso**, identificando falhas funci
 
 ---
 
-## 🛠️ Ferramentas e Técnicas Utilizadas
+## Ferramentas e Técnicas Utilizadas
 
 * **Jira Software**  
   Organização do backlog, planejamento de Sprint e acompanhamento das tarefas (Scrum).
