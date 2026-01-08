@@ -1,8 +1,7 @@
 #  ParaBank QA Project | Portfólio de Testes Manuais
 
-Este projeto simula o dia a dia de um QA num ambiente ágil. 
-O objetivo foi testar o **ParaBank** (um sistema bancário fictício), cobrindo fluxos essenciais como criar conta, login e segurança.
-
+O sistema testado foi o ParaBank, uma aplicação bancária fictícia, com foco nos fluxos essenciais de cadastro, login e segurança de acesso.
+O objetivo principal foi validar o MVP de Acesso, identificando falhas funcionais e de segurança antes da evolução do produto.
 ---
 
 ##  O que usei nesse projeto?
