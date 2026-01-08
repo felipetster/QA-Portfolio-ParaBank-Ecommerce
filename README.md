@@ -1,22 +1,28 @@
-#  ParaBank QA Project | Portfólio de Testes Manuais
+# ParaBank QA Project 
+## Portfólio de Testes Manuais | QA Júnior
 
-O sistema testado foi o ParaBank, uma aplicação bancária fictícia, com foco nos fluxos essenciais de cadastro, login e segurança de acesso.
-O objetivo principal foi validar o MVP de Acesso, identificando falhas funcionais e de segurança antes da evolução do produto.
----
+Este projeto simula a atuação de um **QA em um time ágil**, cobrindo desde o entendimento dos requisitos até a entrega de relatórios de qualidade.  
+O sistema testado foi o **ParaBank**, uma aplicação bancária fictícia, com foco nos fluxos de **cadastro, login e segurança de acesso**.
 
-##  Ferramentas e Técnicas Utilizadas
-
-Jira Software
-* Planejamento de Sprint, organização do backlog e acompanhamento das tarefas (Scrum).
-Zephyr Scale
-* Criação, organização e execução dos casos de teste, além da geração de relatórios.
-BDD (Gherkin)
-* Escrita de cenários claros e objetivos no formato Dado / Quando / Então, facilitando o entendimento entre QA, dev e negócio.
-ScreenPal & Evidências Visuais
-*Gravação de vídeos e captura de prints para documentar execuções e defeitos.
+O objetivo principal foi validar o **MVP de Acesso**, identificando falhas funcionais e pontos críticos de segurança antes da evolução do produto.
 
 ---
 
+## 🛠️ Ferramentas e Técnicas Utilizadas
+
+* **Jira Software**  
+  Organização do backlog, planejamento de Sprint e acompanhamento das tarefas (Scrum).
+
+* **Zephyr Scale**  
+  Criação, organização e execução dos casos de teste, além da geração de relatórios.
+
+* **BDD (Gherkin)**  
+  Escrita de cenários no formato *Dado / Quando / Então*, facilitando a comunicação entre QA, desenvolvimento e negócio.
+
+* **ScreenPal & Evidências Visuais**  
+  Gravação de vídeos e captura de prints para documentar execuções e defeitos.
+
+---
 ##  O Ciclo da Sprint 1: MVP de Acesso
 
 A missão dessa Sprint foi garantir que novos usuários conseguissem se cadastrar e entrar no banco com segurança. Abaixo, mostro passo a passo como conduzi o processo.
