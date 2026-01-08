@@ -4,11 +4,16 @@ O sistema testado foi o ParaBank, uma aplicação bancária fictícia, com foco 
 O objetivo principal foi validar o MVP de Acesso, identificando falhas funcionais e de segurança antes da evolução do produto.
 ---
 
-##  O que usei nesse projeto?
-* **Jira Software:** Para organizar as Sprints e tarefas (Scrum).
-* **Zephyr Scale:** Para criar, organizar e rodar os testes.
-* **BDD (Gherkin):** Para escrever requisitos que todo mundo entende (Dado/Quando/Então).
-* **ScreenPal & Prints:** Para provar o que encontrei.
+##  Ferramentas e Técnicas Utilizadas
+
+Jira Software
+* Planejamento de Sprint, organização do backlog e acompanhamento das tarefas (Scrum).
+Zephyr Scale
+* Criação, organização e execução dos casos de teste, além da geração de relatórios.
+BDD (Gherkin)
+* Escrita de cenários claros e objetivos no formato Dado / Quando / Então, facilitando o entendimento entre QA, dev e negócio.
+ScreenPal & Evidências Visuais
+*Gravação de vídeos e captura de prints para documentar execuções e defeitos.
 
 ---
 
